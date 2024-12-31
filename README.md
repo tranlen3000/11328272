@@ -4,7 +4,7 @@
 
 [TODO](todo.md)
 
-[main.py](main.py)
+[main.py](main2.py)
 
 [main.py](main2.py)
 
