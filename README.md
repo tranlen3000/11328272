@@ -6,11 +6,11 @@
 
 [main.py](main.py)
 
-[main.py](todo1.md)
+[main.py](todo1.py)
 
-[main.py](todo2.md)
+[main.py](todo2.py)
 
-[main.py](todo3.md)
+[main.py](todo3.py)
 
 [點擊這裡前往 Google](https://www.google.com)
 
