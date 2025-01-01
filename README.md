@@ -14,6 +14,8 @@
 
 [todo5.py](todo5.py)
 
-[main.py](tdl3.py)
+[Qt-Basic.py](Qt-Basic.py)
+
+[Qt-Basic1.py](Qt-Basic1.py)
 
 [點擊這裡前往 Google](https://www.google.com)
