@@ -4,7 +4,7 @@
 
 [TODO](TODO.md)
 
-[main.py](main.py)
+[main.py](todo4.py)
 
 [main2.py](main2.py)
 
@@ -12,6 +12,6 @@
 
 [todo5.py](todo5.py)
 
-[main.py](main.py)
+[main.py](tdl3.py)
 
 [點擊這裡前往 Google](https://www.google.com)
