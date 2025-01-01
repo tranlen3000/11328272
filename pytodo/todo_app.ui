@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>widget</class>
+ <widget class="QWidget" name="widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>564</width>
+    <height>474</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>TO-DO</string>
+  </property>
+  <property name="accessibleName">
+   <string notr="true"/>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QLineEdit" name="lineEdit">
+       <property name="placeholderText">
+        <string>                                                          請輸入您的需求</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="QPushButton" name="AddButton">
+         <property name="accessibleName">
+          <string notr="true"/>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: green; color: white; font-weight: bold; border-radius: 5px; padding: 5px;</string>
+         </property>
+         <property name="text">
+          <string>Add</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item row="1" column="0">
+    <widget class="QListWidget" name="tasklist">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="accessibleName">
+      <string notr="true"/>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QPushButton" name="markCompleteButton">
+       <property name="accessibleName">
+        <string notr="true"/>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: green; color: white; font-weight: bold; border-radius: 5px; padding: 5px;</string>
+       </property>
+       <property name="text">
+        <string>Complete</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="deleteButton">
+       <property name="accessibleName">
+        <string notr="true"/>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: red; color: white; font-weight: bold; border-radius: 5px; padding: 5px;
+步驟 4：調整布</string>
+       </property>
+       <property name="text">
+        <string>Delete</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
