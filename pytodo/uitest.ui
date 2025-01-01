@@ -16,7 +16,7 @@
   <widget class="QPushButton" name="quitButton">
    <property name="geometry">
     <rect>
-     <x>290</x>
+     <x>300</x>
      <y>250</y>
      <width>75</width>
      <height>24</height>
