@@ -46,7 +46,7 @@ Dự án này bao gồm các bài tập và ứng dụng thú vị mà tôi đã
 
 - 📊 **Ứng dụng tính toán**  
   - **Mô tả**: Một ứng dụng giao diện người dùng đơn giản sử dụng `Tkinter` để tính toán.  
-  - **Tệp**: [Tkinter.py](./Qt1.py)
+  - **Tệp**: [Tkinter.py](./Tkinter.py)
 
 ---
 
