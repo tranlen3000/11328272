@@ -36,6 +36,12 @@ Dự án này bao gồm các bài tập và ứng dụng thú vị mà tôi đã
   - **Kỹ thuật sử dụng**: Xử lý âm thanh với thư viện `librosa`, `numpy`.  
   - **Tệp**: [Ambulance_SoundDetector.py](./Ambulance_SoundDetector.py)
 
+## 解釋
+
+1. 提取音訊特微：
+
+- extrac
+
 ### 3. **Ứng dụng giao diện**
 
 - 📊 **Ứng dụng tính toán**  
